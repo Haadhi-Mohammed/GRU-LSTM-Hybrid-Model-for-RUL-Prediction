@@ -1,0 +1,8 @@
+This project utilizes the C-MAPSS (Commercial Modular Aero-Propulsion System Simulation) dataset, a widely recognized benchmark for prognostics provided by NASA.
+
+The dataset contains simulated time-series data from turbofan engines operating under various conditions until failure. It is designed for developing and validating prognostics and health management algorithms, particularly for predicting Remaining Useful Life (RUL).
+
+Specifically, this project uses the FD001 subset, which represents a single operating condition and one fault mode.
+
+The full dataset can be downloaded from the NASA Prognostics Data Repository at the following link:
+https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
